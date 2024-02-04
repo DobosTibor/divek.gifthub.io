@@ -1,0 +1,15 @@
+div.mycontainer {
+    width:100%;
+    overflow:auto;
+    margin:auto;
+}
+
+div.mycontainer {
+    width:30%;
+    float:left;
+}
+
+.szepdiv{
+    margin:3px;
+    padding:10px;
+}
